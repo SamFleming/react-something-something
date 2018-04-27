@@ -1,0 +1,21 @@
+{
+  "name": "react-something-something",
+  "version": "1.0.0",
+  "description": "React Something Something",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SamFleming/react-something-something.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "Sam Fleming",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SamFleming/react-something-something/issues"
+  },
+  "homepage": "https://github.com/SamFleming/react-something-something#readme"
+}
